@@ -19,25 +19,26 @@ jobs:
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: |
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/light.txt" > public/blocklists/light.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/multi.txt" > public/blocklists/multi.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.txt" > public/blocklists/pro.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.plus.txt" > public/blocklists/pro.plus.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt" > public/blocklists/ultimate.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/doh.txt" > public/blocklists/doh.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/tif.txt" > public/blocklists/tif.txt
-          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/blocklist-referral.txt" > public/blocklists/blocklist-referral.txt
+          mkdir -p docs/blocklists
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/light.txt" > docs/blocklists/light.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/multi.txt" > docs/blocklists/multi.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.txt" > docs/blocklists/pro.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.plus.txt" > docs/blocklists/pro.plus.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt" > docs/blocklists/ultimate.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/doh.txt" > docs/blocklists/doh.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/tif.txt" > docs/blocklists/tif.txt
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/blocklist-referral.txt" > docs/blocklists/blocklist-referral.txt
           curl -fsSL -H "Authorization: Bearer $CF_API_TOKEN" "https://api.cloudflare.com/client/v4/radar/datasets/ranking_top_1000000" > top.txt
           comm -12 \
-            <(grep -v '^[#$]' public/blocklists/light.txt | tr '[:upper:]' '[:lower:]' | sort) \
+            <(grep -v '^[#$]' docs/blocklists/light.txt | tr '[:upper:]' '[:lower:]' | sort) \
             <(tail -n +2 top.txt | cut -d',' -f2 | tr '[:upper:]' '[:lower:]' | sort) \
-            > public/blocklists/basic.txt
+            > docs/blocklists/basic.txt
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/blocklists
+          git add docs/blocklists
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
