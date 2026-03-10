@@ -8,6 +8,8 @@ on:
 jobs:
   update-blocklist:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -22,7 +24,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add blocklists/light.txt
+          git add public/blocklists/light.txt
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

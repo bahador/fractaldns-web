@@ -13,7 +13,7 @@ import io
 
 BLOCKLIST_URL = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/light.txt"
 CF_RADAR_URL = "https://api.cloudflare.com/client/v4/radar/datasets/ranking_top_1000000"
-OUTPUT_FILE = "blocklists/light.txt"
+OUTPUT_FILE = "public/blocklists/light.txt"
 
 
 def fetch_blocklist():
