@@ -18,7 +18,13 @@ jobs:
       - name: Fetch, filter, and write blocklist
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-        run: python3 scripts/update_blocklist.py
+        run: |
+          curl -fsSL --max-time 60 "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/light.txt" > light.txt
+          curl -fsSL -H "Authorization: Bearer $CF_API_TOKEN" "https://api.cloudflare.com/client/v4/radar/datasets/ranking_top_1000000" > top.txt
+          comm -12 \
+            <(grep -v '^[#$]' light.txt | tr '[:upper:]' '[:lower:]' | sort) \
+            <(tail -n +2 top.txt | cut -d',' -f2 | tr '[:upper:]' '[:lower:]' | sort) \
+            > public/blocklists/light.txt
 
       - name: Commit and push changes
         run: |
