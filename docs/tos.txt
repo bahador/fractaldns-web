@@ -3,7 +3,8 @@ BYODNS Terms of Service
 Scope of Service
 BYODNS supports the following mobile platforms:
 
-Android (v9+)
+Minimum Android Version: 10 (API 29)
+Target Android Version: 16 (API 36)
 
 
 Rights
