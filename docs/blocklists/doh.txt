@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 11:02 UTC
-# Version: 2026.0316.1102.31
+# Last modified: 16 Mar 2026 17:01 UTC
+# Version: 2026.0316.1701.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3954
+# Number of entries: 3959
 #
 ss.0001.xyz
 003153.xyz
@@ -1324,6 +1324,7 @@ doh.xyz
 au-syd.doh.sb
 ca-yyc.doh.sb
 ca-yyz.doh.sb
+de-ber.doh.sb
 de-dus.doh.sb
 de-fra.doh.sb
 ee-tll.doh.sb
@@ -1340,6 +1341,9 @@ ru-mow.doh.sb
 sg-sin.doh.sb
 sm2.doh.pub
 uk-lon.doh.sb
+us-chi.doh.sb
+us-nyc.doh.sb
+us-sjc.doh.sb
 www.doh.xyz
 domain.name
 dnsfilter.domotik.us
@@ -2238,14 +2242,12 @@ doh3.kekew.info
 kekv.fun
 doh.kel.pe
 kellerbier-home.com
-dns.kellys.pw
 dns.kempkens.org
 kennethhuang.com
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 kudns.kescher.at
-dns.keskinnetwork.com
 dns.keskonet.com
 pihole.aws.ketan.dev
 dns.keviland.com
@@ -2848,6 +2850,7 @@ irgrdns.nullapp.xyz
 dns.nullgate.net
 dns.nullrecon.com
 dns.numerus.com
+nwps.fi
 ns.nwps.fi
 kids.ns.nwps.fi
 public.ns.nwps.fi
@@ -3629,6 +3632,8 @@ adguard.twotigers.xyz
 dns.txq.life
 typaza.com
 ad.tzockt.beer
+dot.ublockdns.com
+my.ublockdns.com
 v1.ufamax.eu
 vless-service.ufodns.com
 blokuj.ujwie.co
