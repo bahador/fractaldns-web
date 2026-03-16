@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Mar 2026 11:09 UTC
-# Version: 2026.0315.1109.08
+# Last modified: 16 Mar 2026 11:02 UTC
+# Version: 2026.0316.1102.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3958
+# Number of entries: 3954
 #
 ss.0001.xyz
 003153.xyz
@@ -1097,7 +1097,6 @@ adguard-koe.dns64.de
 dns8.org
 dnsbunker.org
 ns1.recursive.dnsbycomodo.com
-ns2.recursive.dnsbycomodo.com
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 dnscity.org
 abe01.dnscry.pt
@@ -1354,7 +1353,6 @@ family.dns.doubleangels.com
 douglaster.com
 dotserver.douyucdn.cn
 dns35.allone.dpdns.org
-dns.ikun6.dpdns.org
 adguard.llf520.dpdns.org
 de-adguard.dr3ff1c13nt.com
 dns.dr3ff1c13nt.com
@@ -1727,7 +1725,6 @@ dns.geekbyte.de
 adg.geili.me
 genscorp.es
 dns.geohide.ru
-gersoctruda.ru
 geshido.vpn.geshido.ru
 roma.vpn.geshido.ru
 getdnsapi.net
@@ -2052,7 +2049,6 @@ adguard.ihatemy.live
 dns.ihaveacloud.com
 iij.jp
 public.dns.iij.jp
-ikarosalpha.xyz
 dns.ikataruto.com
 mnsvless.ikwb.com
 ilinhy.com

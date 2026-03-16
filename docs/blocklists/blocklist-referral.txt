@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Mar 2026 09:19 UTC
-# Version: 2026.0315.0919.51
+# Last modified: 16 Mar 2026 09:18 UTC
+# Version: 2026.0316.0918.33
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1950
+# Number of entries: 1952
 #
 1-aclk.net
 1aurl.io
@@ -364,6 +364,7 @@ seu2.cleverreach.com
 394092.seu2.cleverreach.com
 394250.seu2.cleverreach.com
 415753.seu2.cleverreach.com
+420624.seu2.cleverreach.com
 426304.seu2.cleverreach.com
 437503.seu2.cleverreach.com
 92652.seu2.cleverreach.com
@@ -999,6 +1000,7 @@ sites.hscoscdn-eu1.net
 142290803.sites.hscoscdn-eu1.net
 143168578.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
+143715022.sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
 144407123.sites.hscoscdn-eu1.net
 145369147.sites.hscoscdn-eu1.net
