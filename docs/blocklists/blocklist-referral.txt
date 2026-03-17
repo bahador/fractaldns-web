@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 09:18 UTC
-# Version: 2026.0316.0918.33
+# Last modified: 17 Mar 2026 09:19 UTC
+# Version: 2026.0317.0919.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1952
+# Number of entries: 1962
 #
 1-aclk.net
 1aurl.io
@@ -268,6 +268,7 @@ seu1.cleverreach.com
 59131.seu1.cleverreach.com
 63728.seu1.cleverreach.com
 64137.seu1.cleverreach.com
+66809.seu1.cleverreach.com
 67656.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
@@ -470,6 +471,7 @@ open.convertkit-mail.com
 001881fb.open.convertkit-mail.com
 1accc1c9.open.convertkit-mail.com
 1efc1b61.open.convertkit-mail.com
+4d40e5c7.open.convertkit-mail.com
 7c2dccff.open.convertkit-mail.com
 8534faf0.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
@@ -555,14 +557,17 @@ open.convertkit-mail4.com
 51ce15f1.open.convertkit-mail4.com
 59b90e10.open.convertkit-mail4.com
 61475545.open.convertkit-mail4.com
+6198ed19.open.convertkit-mail4.com
 708149f7.open.convertkit-mail4.com
 74d7b16b.open.convertkit-mail4.com
 76ab7898.open.convertkit-mail4.com
 986419df.open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
+b43d6384.open.convertkit-mail4.com
 c4d2e6d6.open.convertkit-mail4.com
 c9475d8b.open.convertkit-mail4.com
+cbc7e342.open.convertkit-mail4.com
 d41e12b1.open.convertkit-mail4.com
 d8016216.open.convertkit-mail4.com
 dc12c863.open.convertkit-mail4.com
@@ -638,6 +643,7 @@ dmd.mobi
 postsign.docusign.com
 klclick.dollarshaveclub.com
 c2827.dotomi.com
+cadent-match.dotomi.com
 casale-match.dotomi.com
 cj.dotomi.com
 cpe.dotomi.com
@@ -694,6 +700,7 @@ suite17-cf.emarsys.net
 suite20.emarsys.net
 suite22.emarsys.net
 suite24.emarsys.net
+suite25.emarsys.net
 suite26.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
@@ -1019,6 +1026,7 @@ sites.hscoscdn-eu1.net
 25874232.sites.hscoscdn-eu1.net
 25880420.sites.hscoscdn-eu1.net
 25913237.sites.hscoscdn-eu1.net
+26125366.sites.hscoscdn-eu1.net
 26213917.sites.hscoscdn-eu1.net
 26282475.sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
@@ -1387,6 +1395,7 @@ mkto-lon100168.com
 mkto-mlm10010008.com
 mkto-mlm10030009.com
 mkto-nld1010057.com
+mkto-nld1010150.com
 mkto-nld1030007.com
 mkto-nld1040017.com
 mkto-nld1040186.com
@@ -1452,6 +1461,7 @@ api-01.moengage.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
+api-101.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com
