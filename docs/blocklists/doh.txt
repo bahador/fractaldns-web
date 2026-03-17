@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 11:00 UTC
-# Version: 2026.0317.1100.23
+# Last modified: 17 Mar 2026 23:00 UTC
+# Version: 2026.0317.2300.22
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3954
+# Number of entries: 3953
 #
 ss.0001.xyz
 003153.xyz
@@ -3404,7 +3404,6 @@ resolve02.srv-pro.de
 resolve2.srv-pro.de
 adguard.sscw.win
 ssh-storage.ru
-dns.sshub.win
 doh.ntu.ssooss.win
 ag.ssrahul96.xyz
 dns.sstomp.nl
