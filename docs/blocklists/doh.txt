@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 22:59 UTC
-# Version: 2026.0316.2259.41
+# Last modified: 17 Mar 2026 05:03 UTC
+# Version: 2026.0317.0503.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3957
+# Number of entries: 3956
 #
 ss.0001.xyz
 003153.xyz
@@ -2863,7 +2863,6 @@ oculta.me
 dns.odinpl.com
 adguard.odysseusnetwork.com
 dns.ofdoom.net
-nl.ogne.top
 adguard.ohmhv57.org
 okado.online
 adh.olesgroup.com
