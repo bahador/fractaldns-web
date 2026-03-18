@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 09:19 UTC
-# Version: 2026.0318.0919.39
+# Last modified: 18 Mar 2026 21:19 UTC
+# Version: 2026.0318.2119.16
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1965
+# Number of entries: 1966
 #
 1-aclk.net
 1aurl.io
@@ -1935,6 +1935,7 @@ track.production.webgains.team
 api.track.production.webgains.team
 cdn.track.production.webgains.team
 track.webgains.com
+partners.webmasterplan.com
 solution.weborama.fr
 webpower.eu
 gct.dashboard.wedare.pl
