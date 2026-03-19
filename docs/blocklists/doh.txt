@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 10:58 UTC
-# Version: 2026.0318.1058.54
+# Last modified: 19 Mar 2026 10:56 UTC
+# Version: 2026.0319.1056.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3951
+# Number of entries: 3952
 #
 ss.0001.xyz
 003153.xyz
@@ -3670,6 +3670,7 @@ usascoot.com
 www.usascoot.com
 dns.usualposts.xyz
 v.recipes
+v0dka.ru
 cc2.v8er.net
 vadim.online
 dns.vaguthu.mv
