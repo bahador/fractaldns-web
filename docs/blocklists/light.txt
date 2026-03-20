@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 22:18 UTC
-# Version: 2026.0319.2218.00
+# Last modified: 20 Mar 2026 04:21 UTC
+# Version: 2026.0320.0421.08
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 128419
+# Number of entries: 128440
 #
 0.beer
 www.0.beer
@@ -1192,7 +1192,6 @@ tie.cloud.247-inc.net
 saa.247sports.com
 247tril.xyz
 2481april2024.com
-24839061.xyz
 2485may2024.com
 2487may2024.com
 2489may2024.com
@@ -4931,6 +4930,7 @@ cdn.2trk.info
 2vs2.ru
 ads.2win.pl
 2x2forum.com
+2x9ezrw7vuhqco.cfd
 2xclick.ru
 fcgi5.2xclick.ru
 news.2xclick.ru
@@ -4956,7 +4956,6 @@ view.atdmt.com.26812.9201.302br.net
 304935029.sbs
 3056dde29573a64024cbefbd88fdd384.org
 3062223.cfd
-30861745.xyz
 30dcf.com
 30dediferencia.com
 30e91b71c1e5d60e0ea50b9ee1625938.info
@@ -5786,7 +5785,6 @@ taichi.51y5.net
 52632-google.com
 527143895a5e80953947c7f4236285ac.com
 528bd422da56.com
-52904178.xyz
 52930.cfd
 529620.cfd
 529625.cfd
@@ -5851,6 +5849,7 @@ i.5432kk.com
 5588-google.com
 55af882fa70ad25da6488e05ff9b7667.com
 55b19cb08cd15add08e5.xyz
+55clubwin.com
 55gamei.com
 sp.qf.56.com
 56070df5f4e916a6dd4a06ab892f2a70.sbs
@@ -5965,6 +5964,7 @@ eic.5gtb.com
 5ivy3ikkt.com
 lb9bpqojkqlhoy7r9k2nw.5l7f99wk28q8n2.cfd
 5mp.eu
+5mu7l42uf9lnhlxchq.cfd
 5qzone.net
 5roblox.com
 5starhdporn.com
@@ -6127,7 +6127,6 @@ bj.ad.track.66mobi.com
 volc.bj.ad.track.66mobi.com
 67-google.com
 67156.xyz
-67186.xyz
 67269.xyz
 67427.xyz
 674512356-ipad-pro-m4-13-154cykle-2tb.cfd
@@ -6281,13 +6280,11 @@ adserver.71i.de
 73-google.com
 73021c636c678c8f9aa2.xyz
 730fcb332f.com
-73194560.xyz
 73264877102-apple-watch-series-11-gps-cellular.sbs
 7342121.cfd
 73458763745.cfd
 7347721.cfd
 73478572385.cfd
-73492061.xyz
 734map.net
 73599.click
 735ccd763ea591d7374902d8b1a39dd0f8f5eb39.com
@@ -6505,6 +6502,7 @@ www.84302764.xyz
 845993.click
 847312-coinbase.com
 847312-ledger.com
+847503.click
 847ab3dcab.com
 84920756e43767759b46ff39d490271b.run
 84df6ad2d8d8.xyz
@@ -6738,7 +6736,6 @@ www.9377aa.com
 943b76a88e198525e1864151a2a31d47.site
 9456a5fe46471f57.info
 94623e89ba1d3181052875f9e08e8a71.com
-94750318.xyz
 947e33602e.com
 94acaa934dd6ae35.com
 jero.94b324bfd45547a61366a65d001be6551781d47f.es
@@ -7698,6 +7695,7 @@ achingborder.com
 achyaplenty.com
 acidpigs.com
 acidprolific.com
+acidulerbonbon.com
 acint.net
 mc.acint.net
 pxl.acint.net
@@ -8254,6 +8252,7 @@ adcrowd.com
 pixel.adcrowd.com
 adcy.net
 addapptr.com
+addatestads.com
 addealsnetwork.com
 addefend.com
 api.addefend.com
@@ -34296,7 +34295,6 @@ ww2.businessgrouphealth.org
 as.businessinsider.de
 businessoffices.nl
 matomo.businessregiongoteborg.se
-businessrequestverifyportal.com
 businessvideonews.com
 matomo.buskool.com
 busktraffic.com
@@ -38899,6 +38897,7 @@ cdn.cbtrk.net
 cbwbonline.org
 cbyczsdsb.com
 cbzdxhavo.com
+cbzxy.com
 delivery.cc.ua
 cc-tiktok.com
 cc16f96179e1ad17.xyz
@@ -44038,6 +44037,8 @@ coolguesthouse.com
 detaillog-global-dual.coolhcloud.com
 logreport-global-dual.coolhcloud.com
 wslog-global-dual.coolhcloud.com
+coolishrocked.com
+nn.coolishrocked.com
 coolkidsdistrict.com
 analytics.coollabs.io
 coollaundrydelivery.com
@@ -45151,6 +45152,7 @@ cryptomuss-pay.com
 analytics.cryptool.org
 cryptoprivateoffice.com
 cryptorentes.fr
+cryptoreportshub.com
 cryptotrader.software
 cryptotradesolutions.com
 cryptotyc.care
@@ -48562,7 +48564,6 @@ digitalfamilyoffice.ltd
 digitalfan.com
 digitalfaststream.com
 ads.digitalfirstmedia.com
-digitalflow-app.org
 digitalfreightoffice.com
 digitalfreightoffice.info
 digitalfreightoffice.store
@@ -56773,7 +56774,6 @@ analytics.epe.es
 analytics-cdn.epe.es
 utiq.epe.es
 epeex.io
-ephad-suivi.com
 ephesiansavvyinto.com
 ephraimstroked.cyou
 telemetry.epi.services
@@ -58327,7 +58327,6 @@ fashionbloggerclub.com
 fashioncaoutlet.top
 ads.fashionel.mk
 eiftfa.fashionette.de
-fashionfinds.click
 ldpsh.fashionnova.com
 undgb.fashionnova.com
 vcvnl.fashionnova.com
@@ -59552,6 +59551,7 @@ click.eu.foerpo.com
 matomo.fof.se
 foflf.com
 foggilytraps.cfd
+foggymorningmist.com
 foghug.site
 fogl1onf.com
 fohcwaterbiz.com
@@ -59673,6 +59673,7 @@ forestreveal.com
 ur.foretopheaved.com
 forevergears.com
 forexclub.ru
+forfait-mycanal-fr.com
 forfeitheliumyearn.com
 forgavedisciplinetolerance.com
 forge-eth.biz
@@ -60848,7 +60849,6 @@ galaxypush.com
 xml.galaxypush.com
 eu.xml.galaxypush.com
 galeaeevovae.com
-galebet1064.com
 matomo.galeriebernardjordan.com
 galerija-mona-lisa.com
 metrics.galicia.ar
@@ -71778,7 +71778,6 @@ amplitude.housecallpro.com
 housedeliveryrecs.com
 householdjeopardy.com
 houseofkinindependentlivingproton.org
-houseofzelenastudio.shop
 housetransform.com
 housingdeliverypartners.com
 housingtrap.com
@@ -78006,6 +78005,7 @@ jumpfiledoor.click
 jumptap.com
 jumptree.cfd
 jumpyliterature.com
+jumto.xyz
 tr.junaroad.com
 junclikrmedi.com
 click-v4.junclikrmedi.com
@@ -82600,6 +82600,7 @@ ltcraft.ru
 collector.dgnet.ltd.uk
 lthglhksymoun.online
 ltiopre.com
+ltktkxrrfhged.com
 ltkvxwdlboeuv.space
 applytics.ltlxvxjjmvhn.me
 ltmsphrcl.net
@@ -82898,6 +82899,7 @@ jp-axia.m0mentum.net
 m0rsq075u.com
 analytics.m10payments.com
 sdkconfig.pulse.m10s.io
+m152t.xyz
 m2.ai
 analytics2.m2.ai
 kvp.m2.ai
@@ -85621,6 +85623,7 @@ mirthconfidence.com
 misapor.ch
 misarporta.rest
 miscellaneousfloraprosecutor.com
+miserableart.pro
 miserablegarage.com
 ads.test.mises.site
 misfareairwashnothal.cyou
@@ -87438,6 +87441,7 @@ msoffice.online
 msoffice-cloud.com
 msoft.sbs
 msquickcall.com
+mss32-25h4download.pro
 livewebbs2pcdn.msstatic.com
 pp-cdnfile1pcdn.msstatic.com
 qn-cdnfile1pcdn.msstatic.com
@@ -97339,7 +97343,9 @@ pl-391850.sbs
 pl-41234452.click
 pl-430586.sbs
 pl-434796.sbs
+pl-434926.sbs
 pl-436286.sbs
+pl-443841.bond
 pl-45456543.sbs
 pl-47438.sbs
 pl-474386.sbs
@@ -97347,6 +97353,7 @@ pl-475328984.icu
 pl-48599549.icu
 pl-490910579.sbs
 pl-4910.sbs
+pl-534267.bond
 pl-567722.sbs
 pl-5728453.click
 pl-5824724.cyou
@@ -97361,6 +97368,7 @@ pl-734734734.cyou
 pl-73573684645zamowienie75477845e85789.sbs
 pl-7361538.click
 pl-7599374843.sbs
+pl-7673.sbs
 pl-779492.click
 pl-7bi5.cfd
 pl-7vsx9.cfd
@@ -97369,6 +97377,7 @@ pl-821375.cfd
 pl-826279266232872zamowienie76292772f6d27373.cyou
 pl-82727733872zamowienie82h72738388389.sbs
 pl-837224.click
+pl-86257.sbs
 pl-8665832.sbs
 pl-8kz.cfd
 pl-90591.sbs
@@ -97377,11 +97386,13 @@ pl-9172626228ogloszenie2762638389.biz
 pl-923159837322ogloszenie631256324h.biz
 pl-9445431.sbs
 pl-9462785.click
+pl-9481.sbs
 pl-9632774933zamowienie6326887522.biz
 pl-98324.cfd
 pl-9901614182992zamowienie826256282919.biz
 pl-aukcja110023.icu
 pl-aukcja189620.icu
+pl-be4.cfd
 pl-bieznie.com
 pl-bodzio.shop
 pl-ccc.one
@@ -97408,6 +97419,7 @@ pl-kupteraz83421957.info
 pl-kupteraz88328192.online
 pl-lowagd.com
 pl-ntmdela.com
+pl-ofera1278631271238712381237123.sbs
 pl-oferta-857185.biz
 pl-oferta-id-182566-kategorie-id-19923845.cfd
 pl-oferta-id2387942371.top
@@ -97431,6 +97443,7 @@ pl-oferta3639467.click
 pl-oferta3648462.click
 pl-oferta3649562.click
 pl-oferta3875410.click
+pl-oferta4324.sbs
 pl-oferta47733889.click
 pl-oferta4821721.click
 pl-oferta5006130.click
@@ -97523,7 +97536,9 @@ pl7484rezerwacja9742.sbs
 pl8324rezerwacja6792.sbs
 pl8625rezerwacja8497.sbs
 pl8948rezerwacja8547.sbs
+pl8979rezerwacja8247.sbs
 pl92874.sbs
+pl935.sbs
 placardgoldeye.cyou
 placcolionic.com
 placedwhangam.com
@@ -102367,6 +102382,7 @@ revenuestripe.com
 branding.revenuestripe.com
 reverencepolite.com
 reverendcheesydimly.com
+reverendfry.com
 reverendgrimmforoffice.com
 revhgkqp.com
 metrics.revhuntervpn.com
@@ -103229,6 +103245,7 @@ rlmtpmsnojdaa.online
 log.rlsbb.cc
 rlxntgpuh.com
 events.rm-api.com
+rm358.com
 rmb-trf.net
 ads.rmbl.ws
 a.ads.rmbl.ws
@@ -104335,6 +104352,7 @@ us-east-win.s4mdsp.com
 s4yn0t0sn00z3.xyz
 s5-etherfi.app
 s888-live.org
+s8a5m1.lat
 s8ey.com
 s8twcz.site
 s9-wxd.site
@@ -110675,6 +110693,7 @@ solidomercantan-pt.com
 solidomercantan-pt.fyi
 solionenzymes.com
 iz.solionenzymes.com
+soliq-smart.com
 solispartner.com
 record.solispartner.com
 solitaire-game.ru
@@ -112986,7 +113005,6 @@ sures.top
 surete-valflux-nl.com
 suretevalflux-nl.fyi
 surfcountor.com
-surfinvisible.com
 mtgs.surfoffice.com
 surfshark.events
 behaviour.surfshark.events
@@ -114322,6 +114340,7 @@ teamax-live.com
 tagging.teamescape.com
 teammarketplaceofficer.info
 teamredditads.info
+teams-le.com
 teams-microsoft.org
 teamstatus.net
 teamtrysmartdelivery.com
@@ -115390,6 +115409,7 @@ ticftyxartuy.com
 tichairg.com
 ticielongsuched.com
 analytics.ticimax.cloud
+tickcabinrender.com
 ticket-coinbase.app
 ticket-microsoft.com
 ticket-office-milan.com
@@ -115743,7 +115763,6 @@ tk0x1.com
 core-b8mf.tk0x1.com
 dsp.tk0x1.com
 telemetry.tk0x1.com
-tk8666.com
 tkajdudv.com
 www.tkajdudv.com
 tkb5qc.life
@@ -116484,7 +116503,6 @@ my.trackjs.com
 usage.trackjs.com
 trackkionexxp-pt.fyi
 tracklasixsys.net
-tracklesssurf.com
 tracklution.com
 api.bhg.tracklution.com
 api.karkkainen.tracklution.com
@@ -119988,7 +120006,6 @@ valetta.pl
 valexorantopro-it.fyi
 ads.valica.it
 valid-mirror.pro
-validate-robinhood.com
 validationincsuppot.store
 validclick.com
 validcombine.com
@@ -122024,6 +122041,7 @@ analytics.vouchercodes.nl
 analytics.vouchers-at-work.com
 voupsauk.com
 statistics.vov.vn
+vowsavageskim.com
 concertads-configs.vox-cdn.com
 tracking.voxeus.com
 voxtribune.com
@@ -123423,6 +123441,7 @@ vwoamqat.com
 www.vwoamqat.com
 logger.vwonehub.io
 vws4brkfst.com
+vx2tbw9xin.com
 vxbrandguidelines.com
 vxcewh.cn
 vxgqnsrhfgsrh.online
@@ -126786,6 +126805,7 @@ umami.ygorganization.com
 ygtbzpdemamrn.online
 ygtonnwghswtx.space
 ygunoiunommiurynfuup.com
+ygx2myq993.com
 yhbatwdehlcrz.website
 yhdeesojslvt.com
 yhgfsdad.top
@@ -127799,6 +127819,7 @@ zfedutamj.in
 www.zfedutamj.in
 zferral.com
 zfloorsu.com
+zfpn7ef472.com
 zftpnp.icu
 zfwicysjemzklw.com
 www.zfwicysjemzklw.com
