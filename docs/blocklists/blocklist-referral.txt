@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 09:18 UTC
-# Version: 2026.0319.0918.20
+# Last modified: 20 Mar 2026 09:17 UTC
+# Version: 2026.0320.0917.52
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1971
+# Number of entries: 1974
 #
 1-aclk.net
 1aurl.io
@@ -244,6 +244,7 @@ seu.cleverreach.com
 19706.seu.cleverreach.com
 20791.seu.cleverreach.com
 22503.seu.cleverreach.com
+228301.seu.cleverreach.com
 23196.seu.cleverreach.com
 2561.seu.cleverreach.com
 28736.seu.cleverreach.com
@@ -732,6 +733,7 @@ suite56-cf.emarsys.net
 suite57.emarsys.net
 suite57-cf.emarsys.net
 suite58.emarsys.net
+suite58-cf.emarsys.net
 suite59.emarsys.net
 suite6.emarsys.net
 suite60.emarsys.net
@@ -1034,6 +1036,7 @@ sites.hscoscdn-eu1.net
 26125366.sites.hscoscdn-eu1.net
 26213917.sites.hscoscdn-eu1.net
 26282475.sites.hscoscdn-eu1.net
+26544488.sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26609264.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
