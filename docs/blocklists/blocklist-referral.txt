@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 09:17 UTC
-# Version: 2026.0320.0917.52
+# Last modified: 21 Mar 2026 09:19 UTC
+# Version: 2026.0321.0919.17
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1974
+# Number of entries: 1979
 #
 1-aclk.net
 1aurl.io
@@ -253,6 +253,7 @@ seu.cleverreach.com
 32521.seu.cleverreach.com
 34164.seu.cleverreach.com
 341764.seu.cleverreach.com
+36268.seu.cleverreach.com
 36427.seu.cleverreach.com
 37135.seu.cleverreach.com
 8437.seu.cleverreach.com
@@ -373,6 +374,7 @@ seu2.cleverreach.com
 420624.seu2.cleverreach.com
 426304.seu2.cleverreach.com
 437503.seu2.cleverreach.com
+444969.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
@@ -476,6 +478,7 @@ open.convertkit-mail.com
 001881fb.open.convertkit-mail.com
 1accc1c9.open.convertkit-mail.com
 1efc1b61.open.convertkit-mail.com
+3fcbbe8c.open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
 7c2dccff.open.convertkit-mail.com
 8534faf0.open.convertkit-mail.com
@@ -1017,6 +1020,7 @@ sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
 144407123.sites.hscoscdn-eu1.net
 145369147.sites.hscoscdn-eu1.net
+24850323.sites.hscoscdn-eu1.net
 24855079.sites.hscoscdn-eu1.net
 24880693.sites.hscoscdn-eu1.net
 24942465.sites.hscoscdn-eu1.net
@@ -1052,6 +1056,7 @@ group0.sites.hscoscdn-eu1.net
 145642586.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
+146447957.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
 25855289.group0.sites.hscoscdn-eu1.net
 26656555.group0.sites.hscoscdn-eu1.net
