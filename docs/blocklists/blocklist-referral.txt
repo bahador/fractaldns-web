@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Mar 2026 09:19 UTC
-# Version: 2026.0321.0919.17
+# Last modified: 22 Mar 2026 09:22 UTC
+# Version: 2026.0322.0922.21
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1979
+# Number of entries: 1981
 #
 1-aclk.net
 1aurl.io
@@ -886,6 +886,7 @@ s8.exacttarget.com
 inbound.s8.exacttarget.com
 mc.s8.exacttarget.com
 s91.exacttarget.com
+smtp.exacttarget.com
 stage.exacttarget.com
 cl.exct.net
 click.idprotect.experian.com
@@ -1860,6 +1861,7 @@ redirect476.tagcommander.com
 tailtarget.com
 takmertok.com
 click.taobao.com
+g.click.taobao.com
 s.click.taobao.com
 ud.click.taobao.com
 click.simba.taobao.com
