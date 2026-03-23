@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 10:56 UTC
-# Version: 2026.0319.1056.59
+# Last modified: 23 Mar 2026 11:00 UTC
+# Version: 2026.0323.1100.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3952
+# Number of entries: 3948
 #
 ss.0001.xyz
 003153.xyz
@@ -224,6 +224,7 @@ dns.adguarddns.com
 family.adguarddns.com
 unfiltered.adguarddns.com
 admir21.ru
+dns.adnull.com
 dns.adrianlam.com
 adguard.adrianofrongillo.ovh
 y3suyx0cg2lewi2dmn.advaitghaisas.in
@@ -1447,7 +1448,6 @@ tuandns.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
 wired-guardian.duckdns.org
-wisehomeguard.duckdns.org
 workcavestl.duckdns.org
 x-o-x.duckdns.org
 x861g.duckdns.org
@@ -1760,7 +1760,6 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 agh.gloom.nexus
-dns.glorydns.com
 dns.glsoft.ai
 dns.gnb09.id
 moph.go.th
@@ -2087,8 +2086,6 @@ ingenmannsland.online
 apidns.kwd.inkuai.com
 httpdns.kwd.inkuai.com
 ad.innet.id
-inoainoa.fun
-www.inoainoa.fun
 inpssh.online
 www.inpssh.online
 qlf-doh.inria.fr
@@ -2348,7 +2345,6 @@ yarp.lefolgoc.net
 br.servers.legat.ml
 externalmobiel.lekdijk.online
 sndkcuf.lekun.me
-lelux.fi
 dns.lepilleur.com
 dns.lermer.nl
 lesuo.top

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Mar 2026 09:22 UTC
-# Version: 2026.0322.0922.21
+# Last modified: 23 Mar 2026 09:23 UTC
+# Version: 2026.0323.0923.18
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1981
+# Number of entries: 1983
 #
 1-aclk.net
 1aurl.io
@@ -609,6 +609,7 @@ m-eqxt2.custobar.com
 m-fqlpo.custobar.com
 m-gzmk5.custobar.com
 m-kpz.custobar.com
+m-ll23a.custobar.com
 m-nvdxq.custobar.com
 m-nxt.custobar.com
 m-s6iau.custobar.com
@@ -1217,6 +1218,7 @@ r.lafamo.com
 click.landsend.com
 lddy.no
 leadfoxcloud.com
+pxl.leads.su
 unsubscribe.prod.leanplum.com
 learning.school
 l.lefigaro.fr
