@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 09:23 UTC
-# Version: 2026.0323.0923.18
+# Last modified: 24 Mar 2026 09:20 UTC
+# Version: 2026.0324.0920.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1983
+# Number of entries: 1985
 #
 1-aclk.net
 1aurl.io
@@ -1336,6 +1336,7 @@ mkto-ab330062.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab350042.com
+mkto-ab390033.com
 mkto-ab390087.com
 mkto-ab400124.com
 mkto-ab400143.com
@@ -1983,6 +1984,7 @@ redirect.appmetrica.yandex.ru
 4276573.redirect.appmetrica.yandex.com
 42989.redirect.appmetrica.yandex.com
 4479526.redirect.appmetrica.yandex.com
+4541467.redirect.appmetrica.yandex.com
 4622212.redirect.appmetrica.yandex.com
 4652626.redirect.appmetrica.yandex.com
 4788685.redirect.appmetrica.yandex.com
