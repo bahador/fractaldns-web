@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 09:20 UTC
-# Version: 2026.0324.0920.59
+# Last modified: 25 Mar 2026 09:23 UTC
+# Version: 2026.0325.0923.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1985
+# Number of entries: 1992
 #
 1-aclk.net
 1aurl.io
@@ -551,8 +551,10 @@ click.convertkit-mail4.com
 07494aa4.click.convertkit-mail4.com
 28d3c607.click.convertkit-mail4.com
 2fc9b2f8.click.convertkit-mail4.com
+3c5984bd.click.convertkit-mail4.com
 51ce15f1.click.convertkit-mail4.com
 9a0ee07c.click.convertkit-mail4.com
+e4c5c2ea.click.convertkit-mail4.com
 el2.convertkit-mail4.com
 open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
@@ -573,6 +575,7 @@ open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
+bbdc1d35.open.convertkit-mail4.com
 c4d2e6d6.open.convertkit-mail4.com
 c9475d8b.open.convertkit-mail4.com
 cbc7e342.open.convertkit-mail4.com
@@ -582,6 +585,7 @@ dc12c863.open.convertkit-mail4.com
 dd3c8d94.open.convertkit-mail4.com
 e22d5796.open.convertkit-mail4.com
 e45adc39.open.convertkit-mail4.com
+e4c5c2ea.open.convertkit-mail4.com
 f5da5543.open.convertkit-mail4.com
 fc541894.open.convertkit-mail4.com
 fe05b0e9.open.convertkit-mail4.com
@@ -589,6 +593,7 @@ ff2daa42.open.convertkit-mail4.com
 preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
+e4c5c2ea.unsubscribe.convertkit-mail4.com
 data.digital.costco.ca
 data.digital.costco.com
 orders.costco.com
@@ -1415,6 +1420,7 @@ mkto-mlm10030009.com
 mkto-nld1010057.com
 mkto-nld1010150.com
 mkto-nld1020077.com
+mkto-nld1020173.com
 mkto-nld1030007.com
 mkto-nld1040017.com
 mkto-nld1040186.com
@@ -1447,6 +1453,7 @@ mkto-sj200229.com
 mkto-sj210057.com
 mkto-sj210107.com
 mkto-sj230006.com
+mkto-sj230010.com
 mkto-sj240021.com
 mkto-sj250062.com
 mkto-sj250145.com
