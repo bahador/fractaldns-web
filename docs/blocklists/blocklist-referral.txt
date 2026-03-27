@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 15:22 UTC
-# Version: 2026.0326.1522.33
+# Last modified: 27 Mar 2026 09:25 UTC
+# Version: 2026.0327.0925.07
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1997
+# Number of entries: 2000
 #
 1-aclk.net
 1aurl.io
@@ -367,6 +367,7 @@ seu2.cleverreach.com
 354975.seu2.cleverreach.com
 356133.seu2.cleverreach.com
 357748.seu2.cleverreach.com
+359752.seu2.cleverreach.com
 361290.seu2.cleverreach.com
 363224.seu2.cleverreach.com
 372230.seu2.cleverreach.com
@@ -1244,6 +1245,8 @@ r.linksprf.com
 linksredirect.com
 linksshift.com
 click.linksynergy.com
+linkvertise.com
+linkvertise.net
 go.linkwi.se
 list-manage.com
 adsv.svc.litv.tv
