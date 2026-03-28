@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 08:04 UTC
-# Version: 2026.0326.0804.52
+# Last modified: 28 Mar 2026 11:10 UTC
+# Version: 2026.0328.1110.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3953
+# Number of entries: 3954
 #
 ss.0001.xyz
 003153.xyz
@@ -2418,6 +2418,7 @@ dns.lupine.solutions
 home.luther.io
 d.luwei.date
 dns.lvl-network.de
+dns.lvolland.fr
 orau.lz0724.com
 orjp4.lz0724.com
 addns1.m-it.ro

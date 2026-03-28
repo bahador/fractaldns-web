@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 09:25 UTC
-# Version: 2026.0327.0925.07
+# Last modified: 28 Mar 2026 09:24 UTC
+# Version: 2026.0328.0924.40
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2000
+# Number of entries: 2002
 #
 1-aclk.net
 1aurl.io
@@ -1066,6 +1066,7 @@ group0.sites.hscoscdn-eu1.net
 143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
+145609858.group0.sites.hscoscdn-eu1.net
 145642586.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
@@ -1993,6 +1994,7 @@ redirect.appmetrica.yandex.ru
 3.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 317729.redirect.appmetrica.yandex.com
+3474082.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 4237138.redirect.appmetrica.yandex.com
 4259758.redirect.appmetrica.yandex.com
